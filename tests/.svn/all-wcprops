@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/cubely/tests
+END
+Dimension.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cubely/tests/Dimension.pyc
+END
+basic_api.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cubely/tests/basic_api.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cubely/tests/__init__.py
+END
+Cube.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/cubely/tests/Cube.pyc
+END
+Hierarchy.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cubely/tests/Hierarchy.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/cubely/tests/__init__.pyc
+END
+Position.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cubely/tests/Position.pyc
+END
+Database.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cubely/tests/Database.pyc
+END

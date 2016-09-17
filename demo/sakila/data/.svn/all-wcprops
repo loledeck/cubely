@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data
+END
+sakila.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/sakila.sql
+END
+geography.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/geography.txt
+END
+prods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/prods.txt
+END
+sales.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/sales.txt
+END
+rentals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/rentals.txt
+END
+actors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/actors.txt
+END
+inventory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/inventory.txt
+END
+time.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cubely/demo/sakila/data/time.txt
+END
